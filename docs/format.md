@@ -32,18 +32,31 @@
 
 **Avoid:** any intro, host/guest bio, or mission statement up front; long musical intros; ads before the story; "like & subscribe" up front (put it mid-point).
 
+## Episode naming & thumbnails
+
+Two layers — keep them separate:
+- **Internal (folders/files):** organised **by guest** — `episodes/<guest>/one.md`, `two.md`, … (one folder per guest, one file per conversation round). Plain and stable.
+- **Public title (YouTube/Spotify):** **topic-led, with the guest and a number** — `[Plain topic] — [Guest] (affiliation) | Mrinal Wahal #NN`.
+  - *Why topic-led, not guest-led (yet):* Lex Fridman leads with the guest because his guests are the draw. Ours aren't — nobody's searching "Kumar Anand." The **topic** gets searched and clicked; the **guest name** adds credibility. Lead with the topic in text.
+  - **Flip to guest-led for a marquee guest** (e.g. a Raghuram Rajan) — then the name *is* the hook: `Raghuram Rajan: ... | Mrinal Wahal #NN`.
+  - Ep 1 example: `Inflation Is a Hidden Tax — Kumar Anand (CCS) | Mrinal Wahal #1`.
+
+**Thumbnails — Lex-style, one consistent template:** a clean guest **portrait**, the guest's **name** large, a **2–4 word topic tag**, a small **#NN**, same font/colour every time. The *thumbnail* carries the face and the series look; the *title* carries the search terms. Consistency is the whole game.
+
 ## Season & episode planning
 
+- **Guest-first:** pick the guest, then shape the topic to *their* expertise (within the remit). Recurring guests get numbered rounds (`one.md`, `two.md`, …) — a relationship, not a one-off.
 - **Think in seasons of ~8–12 episodes** — a finish line, a "best-of" moment, a clean break.
 - **Front-load** your strongest guests and most relatable topics (inflation, jobs, rent, money).
 - **Batch-record** 2–3 per session; always keep **one episode in the bank** to protect the streak.
 - **Mix registers** within a season: felt-world / ideas / story / contrarian.
+- **One thought-chain per episode** — a complete argument, not a survey. A big subject is **2–3 episodes**, not one crammed hour (e.g. monetary theory = a 2-episode arc, not ten sub-topics).
 
 Full slate + guest roster: **[episodes/README.md](../episodes/README.md)**.
 
 ## Per-episode prep doc (a map you can abandon)
 
-Build a one-pager every episode: research notes → a **spine of 8–12 anchor questions** (accessible → mechanism → stakes) → backup questions → pre-written transitions/rescue lines → a jargon-and-landmine list. Bullets, not sentences; prompts, not verbatim reads. Template in [interview-craft spec](interview-craft.md); a worked example is the **[Episode 1 prep sheet](../episodes/01-monetary-theory/prep-sheet.md).**
+Build a one-pager every episode: research notes → a **spine of 6–8 anchor questions** (accessible → mechanism → stakes) → backup questions → pre-written transitions/rescue lines → a jargon-and-landmine list. Bullets, not sentences; prompts, not verbatim reads. Template in [interview-craft spec](interview-craft.md); a worked example is **[Kumar Anand · Round One](../episodes/kumar_anand/one.md).**
 
 ## Publishing pipeline (one recording → many assets)
 

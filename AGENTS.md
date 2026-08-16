@@ -19,7 +19,7 @@ The strategy, brand, and production brain of a podcast hosted by **Mrinal Wahal*
 - Run every episode through the **Editorial Litmus Test** (6 checks) in the Charter.
 
 ## Locked decisions
-Channel = "Mrinal Wahal" (no separate show name) · **monetary theory core, anarcho-capitalist stance** · Hinglish · host + one guest · 45–60 min · video-first · biweekly.
+Channel = "Mrinal Wahal" (no separate show name) · **monetary theory core, anarcho-capitalist stance** · **guest-first planning** (topic follows the guest's expertise; recurring guests get numbered rounds) · Hinglish · host + one guest · 45–60 min · video-first · biweekly.
 
 ## Repo map & how to add an episode
-See [`CLAUDE.md`](CLAUDE.md) for the full repo map and the episode-creation procedure (`episodes/NN-slug/` with `prep-sheet.md` + `notes.md`, then run the Litmus Test and update `episodes/README.md`).
+See [`CLAUDE.md`](CLAUDE.md) for the full repo map and the **guest-first** episode-creation procedure (`episodes/<guest>/one.md`, `two.md`, … — pick the guest, shape the topic to their expertise, run the Litmus Test, list it in `episodes/README.md`).

@@ -21,6 +21,7 @@ Run every episode through the **Editorial Litmus Test** in the Charter (6 checks
 - **Language = Hinglish**, consistent.
 - **Format** = host (the "translator") + one expert guest; **45–60 min**; **video-first**; **biweekly**, never miss the slot.
 - **Remit** = monetary theory as the spine, opening onto the ancap/free-market case — treated as *ideas*, felt topics as on-ramps; never stock/crypto tips.
+- **Planning = guest-first** — pick the guest, then shape the topic to *their* expertise (within the remit); recurring guests get numbered rounds (`episodes/<guest>/one.md`, `two.md`). The first episodes (with Kumar Anand, a friend) are experimental learning reps.
 
 ## Repo map
 
@@ -34,9 +35,9 @@ docs/distribution.md     ← platforms, clips engine, monetization, production
 docs/interview-craft.md  ← interview technique + Dos/Don'ts
 docs/competitive-landscape.md  ← competitors / allies / guest sources
 docs/sources.md          ← citations + confidence flags + verify-before-airing list
-episodes/README.md       ← season slate + guest roster + booking tactics
-episodes/NN-slug/prep-sheet.md   ← printable one-page recording aid
-episodes/NN-slug/notes.md        ← data pack, question bank, guest brief
+episodes/README.md       ← guests, rounds & roadmap (guest-first planning)
+episodes/<guest>/one.md  ← one file per conversation round (script + notes)
+episodes/<guest>/two.md  ← next round with the same guest
 ```
 
 ## Working rules
@@ -45,7 +46,7 @@ episodes/NN-slug/notes.md        ← data pack, question bank, guest brief
 2. **Facts:** never invent numbers, quotes, or credentials. Cite named sources; add new ones to `docs/sources.md` with a confidence flag. Flag anything unverified. Treat live economic figures as **perishable — verify from primary sources (MoSPI, RBI, World Bank) the week of use.**
 3. **Honesty over persuasion:** if the honest read undercuts a pro-market talking point (e.g. flat real wages), keep it — that credibility *is* the brand.
 4. **Keep docs scannable:** tables, bolded takeaways, bullets over prose. Don't reintroduce number prefixes on `docs/` filenames or H1s (episodes keep their episode number).
-5. **Adding an episode:** create `episodes/NN-slug/` with `prep-sheet.md` (printable one-pager) and `notes.md` (data pack + question bank + guest brief), following the Episode 1 pattern and the prep-doc template in `docs/interview-craft.md`; run it through the Litmus Test; add it to the slate in `episodes/README.md`.
+5. **Adding an episode (guest-first):** pick the guest, then shape the topic to *their* expertise (within the remit); create `episodes/<guest_snake>/one.md` (the next round with them = `two.md`, …) as a self-contained script + notes, following the `kumar_anand/` pattern and the prep-doc template in `docs/interview-craft.md`; run it through the Litmus Test; list the guest/round in `episodes/README.md`.
 6. **Editing specs vs playbook:** the Charter changes only on purpose (log it at the bottom of `charter.md`). Playbook docs can evolve freely as long as they stay Charter-compliant.
 7. **Tone of your own output:** honest, specific, opinionated, decision-ready. Give a recommendation, not a survey. Surface tradeoffs plainly.
 

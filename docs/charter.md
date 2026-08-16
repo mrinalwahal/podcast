@@ -9,7 +9,7 @@
 
 ## What the show is
 
-An **anarcho-capitalist** podcast whose intellectual spine is **monetary theory** — the nature of money, why it loses value, who controls it, and why the state shouldn't. Hosted by **Mrinal Wahal**, Hinglish, interview format. It uses felt, familiar topics (inflation, demonetization, the digital rupee, gold) as **on-ramps to theory** — never as the destination.
+An **anarcho-capitalist** podcast whose spine is the **politics of money** (monetary theory) — who controls money, how that control is power, who it robs, and why the state shouldn't have it. Hosted by **Mrinal Wahal**, Hinglish, interview format. It uses felt, familiar topics (inflation, demonetisation, the digital rupee, gold) as **on-ramps to theory** — never as the destination. We care about the *politics* of money far more than its history or mechanics.
 
 > **It is about monetary theory, not the news.** Inflation, current data, and day-to-day politics are *segues*, not subjects. If an episode ends where a news explainer would, we failed.
 
@@ -31,8 +31,9 @@ If a decision doesn't serve that sentence, it's probably wrong.
 
 ## Scope — what's in and out
 
-**In:** **monetary theory as the spine** (what money is, inflation as a monetary phenomenon, the Cantillon effect, central banking, sound money vs. fiat, the state's money monopoly) and the broader **ancap / free-market / liberty** worldview it opens onto — treated as *ideas and theory*, with felt topics as on-ramps.
-**Out:** personal-finance how-to (stock/fund/crypto tips), blow-by-blow current politics, news-chasing, technical data for its own sake, and partisan cheerleading. Finance is in scope only as *theory* (why insurance is mis-sold; what money is), never as advice.
+**In:** the **politics of money** as the spine (inflation as a hidden tax, the Cantillon effect, the state's money monopoly, CBDC/surveillance, sound money vs. fiat) and the broader **ancap / free-market / liberty** worldview it opens onto — treated as *ideas and theory*, with felt topics as on-ramps.
+**Out:** personal-finance how-to (stock/fund/crypto tips), blow-by-blow current politics, news-chasing, technical data for its own sake, the history of money for its own sake, and partisan cheerleading. Finance is in scope only as *theory* (why insurance is mis-sold; what money is), never as advice.
+**Scale:** the monetary-theory core is a **2-episode arc** (the tax → the control & the way out), each a complete political thought-chain — not one subject sliced ten ways. History of money is *scaffolding*, not a subject. After the arc, the same politics-of-power lens extends to the wider liberty terrain.
 
 ## Fixed identity (settled — do not re-litigate without cause)
 
@@ -42,6 +43,7 @@ If a decision doesn't serve that sentence, it's probably wrong.
 - **Format:** host as the **translator** + one expert guest; **45–60 min**; **video-first**; **biweekly**, never missing the slot.
 - **Opening:** every episode starts **cold, mid-conversation, on a specific story** — no host or guest introductions, no "welcome to the show," no mission statement. The viewer learns who's who from the conversation.
 - **Naming:** plain and descriptive — call things what they are (the show is *monetary theory*). No slogans or clever episode titles.
+- **Planning:** **guest-first** — pick the guest, then shape the topic to *their* expertise (within the remit). Recurring guests get numbered rounds (`episodes/<guest>/one.md`, `two.md`, …).
 
 ---
 
@@ -54,6 +56,7 @@ If a decision doesn't serve that sentence, it's probably wrong.
 4. **Steelman our own side too.** Concede the hard problems of sound money / gold / Bitcoin / statelessness (deflation, volatility, 19th-century bank panics, public goods). Honesty cuts both ways.
 5. **Translate everything.** No jargon survives untranslated (the "smart 15-year-old" test).
 6. **Anchor claims to a real, named source** and **verify live statistics** the week we record.
+7. **One thought-chain per episode.** A complete argument, not a survey. Don't cram — if it needs more, it's 2–3 episodes, not one (cap prep at ~6–8 anchor questions).
 
 **Never:**
 1. Never spend an episode on inflation technicals, current data, or day-to-day politics for their own sake — they are on-ramps.
@@ -100,3 +103,4 @@ Recorded → passes the Litmus Test → **opens cold, mid-conversation, on a spe
 *Change log:*
 - *2026-08-17 — Charter created; identity fixed (channel "Mrinal Wahal", Hinglish, no separate show name).*
 - *2026-08-17 — Recentered on **monetary theory** as the spine and an explicitly **anarcho-capitalist** stance ("radical in substance, inviting in method"); inflation etc. reframed as on-ramps, not subjects.*
+- *2026-08-17 — Sharpened to the **politics of money** over history/mechanics; capped the monetary core at **2–3 episodes** (distinct thought-chains); added "one thought-chain per episode." Ep 1 is now "inflation as a hidden tax."*

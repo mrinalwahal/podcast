@@ -19,6 +19,7 @@ Open cold, mid-conversation, on a **specific story** (no host/guest intros, no "
 - **Follow-ups are the interview.** Echo to pull more ("Wait — say more"); **ask the same thing 4–5 different ways**; **force specificity** ("Is it more like *this* or *that*?").
 - **Steelman before you challenge** (Dennett): restate the other side so well they say "yes, exactly," note agreement, *then* push. Best tape + most credible.
 - **Kill two failure modes:** **leading questions** ("Don't you think inflation punishes the poor?" → "Who does inflation hit hardest, and why?") and **double-barreled questions** (ask one thing, get the answer, *then* the next).
+- **One thought-chain per episode.** 6–8 anchor questions, not a survey. If it needs more, it's 2–3 episodes — don't cram.
 
 ## Hosting technique
 
@@ -52,7 +53,7 @@ Promise to the listener: ________________
 A. RESEARCH NOTES (for me, not read aloud)
    - Guest's work read: __  · The glossed-over detail to open on: __
    - "What would make this a home run for you?" (ask in advance): __
-B. THE SPINE — 8–12 anchor questions in arc order (accessible → mechanism → stakes)
+B. THE SPINE — 6–8 anchor questions in arc order (accessible → mechanism → stakes)
    1. [Gear 1] __   2. ...   (one-line openers, doorways not paragraphs)
 C. BACKUP QUESTIONS — to reignite energy / fill time
 D. TRANSITIONS & RESCUE LINES (pre-written)
@@ -62,4 +63,4 @@ E. JARGON & LANDMINE LIST — terms I'll force the guest to translate
 F. CLOSE — synthesizing question + the one takeaway I want them to leave with
 ```
 
-Worked example, fully filled in: the **[Episode 1 prep sheet](../episodes/01-monetary-theory/prep-sheet.md).**
+Worked example, fully filled in: **[Kumar Anand · Round One](../episodes/kumar_anand/one.md).**
