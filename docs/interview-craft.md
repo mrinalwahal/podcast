@@ -64,4 +64,4 @@ F. CLOSE (standard ritual) — capstone question · "what should I have asked?" 
 G. LINES TO LAND — punchy, honest one-liners + quirky words/Hinglish to use for attention & clips (on-air delivery, not slogans-as-openers)
 ```
 
-Worked example, fully filled in: **[Kumar Anand · Round One host sheet](../episodes/kumar_anand/one/host.md).**
+Worked example, fully filled in: **[Kumar Anand · session host sheet](../episodes/kumar_anand/one/host.md).**

@@ -8,14 +8,18 @@ Episodes are organised **by guest**: one folder per guest (`episodes/<guest>/`),
 
 ## Kumar Anand (CCS) — our first guest *(experimental)*
 
-Economist, Senior Fellow & Academy lead at the **Centre for Civil Society**; ex-**Asianomics** (Austrian-leaning macro), ex-NIPFP (public finance); *Indian economy, Indian economic history, public policy, public finance*. A good friend — so the first episodes are **low-stakes learning reps**, crafted together and iterated. *(Verify his current title before any thumbnail.)*
+**Senior Fellow, Academy & Policy Training** at the **Centre for Civil Society** (leads the Academy team; ex-Director for Advocacy); ex-**Asianomics** (Austrian-leaning macro house view), ex-NIPFP (public finance); *Indian economy, Indian economic history, public policy, public finance*. Classical-liberal — don't label him personally "Austrian." He also runs a Hinglish YouTube show, *Janhit Junction* — so he has real format experience and a built-in cross-promo. A good friend — so the first episodes are **low-stakes learning reps**, crafted together and iterated. *(Title current as of 2025–26; re-confirm before any thumbnail.)*
 
-| Round | Topic — shaped to Kumar's expertise | The thought-chain |
+**Session one — the monetary arc.** Recorded as **one continuous conversation**, published as **two episodes**. Both prepped from a single pair of docs: [host sheet](kumar_anand/one/host.md) · [guest brief](kumar_anand/one/guest.md).
+
+| Published as | Act — shaped to Kumar's expertise | The thought-chain |
 |---|---|---|
-| **One** · [host](kumar_anand/one/host.md) · [guest](kumar_anand/one/guest.md) | **Inflation as a hidden tax** — his *public finance* lens (how the state funds itself) | Debased on purpose → Cantillon (who gets it first) → a tax nobody voted for |
-| **Two** · [host](kumar_anand/two/host.md) · [guest](kumar_anand/two/guest.md) | **Money without the state** — his *Indian economic history* for the control stories | The monopoly is control (demonetisation, the digital rupee) → the alternative (gold, competing currencies, Bitcoin) → can it work? |
+| **Ep #1 · Inflation as a hidden tax** | his *public finance* lens (how the state funds itself) | Debased on purpose → Cantillon (who gets it first) → a tax nobody voted for |
+| **Ep #2 · Money without the state** | his *Indian economic history* for the control stories | The monopoly is control (demonetisation, the digital rupee) → the alternative (gold, competing currencies, Bitcoin) → can it work? |
 
-Two acts: **Round One = state money robs you; Round Two = state money controls you → the escape.** Batch-record both in one session; keep one banked.
+**Two acts, one sitting:** Act 1 = state money *robs* you; Act 2 = state money *controls* you → the escape. **Record both as one continuous conversation** — no hard stop between the acts (Act 1 ends on "a tax you never voted for," Act 2 opens on "so whose money is it?") — then cut it into two episodes in the edit. Let the tape set the count: two is the default, but if this first rep only yields one episode of genuinely good material, ship one tight pilot and continue Kumar's arc later — **one great episode beats two thin ones.** Keep one banked. *(If published as two, Act 2 gets a ten-second in-conversation callback so it stands alone.)*
+
+**Pipeline:** 2–3 further guests have soft-committed — their rounds get planned guest-first once the Kumar reps are recorded and we know what the format actually feels like.
 
 ---
 

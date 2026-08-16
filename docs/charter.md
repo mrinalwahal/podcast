@@ -1,8 +1,8 @@
 # The Charter
 
-*The source of truth for this venture. Every episode, guest, title, clip, sponsorship, and judgment call must conform to this document. When anything else in this repo conflicts with the Charter, the Charter wins.*
+*The source of truth for this venture. Every episode, guest, title, clip, and judgment call must conform to this document. When anything else in this repo conflicts with the Charter, the Charter wins.*
 
-**Precedence:** `charter.md` → the specs (`brand.md`, `ideology.md`, `monetary-theory.md`) → the playbook (`format.md`, `distribution.md`, `interview-craft.md`, `competitive-landscape.md`, `sources.md`) → individual episode material.
+**Precedence:** `charter.md` → the specs (`brand.md`, `ideology.md`, `monetary-theory.md`) → the playbook (`format.md`, `distribution.md`, `interview-craft.md`, `ecosystem.md`, `sources.md`) → individual episode material.
 **Changing it:** the Charter is deliberately stable. Change it only on purpose, with a one-line note at the bottom — never as a side effect of another edit.
 
 ---
@@ -41,7 +41,7 @@ If a decision doesn't serve that sentence, it's probably wrong.
 - **Intellectual core:** monetary theory. **Stance:** anarcho-capitalist in conviction; inviting in method.
 - **Language:** Hinglish, consistent.
 - **Format:** host as the **translator** + one expert guest; **45–60 min**; **video-first**; **biweekly**, never missing the slot.
-- **Opening:** every episode starts **cold, mid-conversation, on a specific story** — no host or guest introductions, no "welcome to the show," no mission statement. The viewer learns who's who from the conversation.
+- **Opening:** every episode starts **cold, mid-conversation, on a specific story** — no *spoken* host/guest introductions, no "welcome to the show," no mission statement. But the **screen introduces**: an on-screen lower-third (name + credential) the first time each person appears is **required** — the ban is on spoken narration, not on visual context. On a new, no-reputation channel the guest's authority is *why* a skeptic gives you five minutes; show it even though you don't say it.
 - **Closing:** every episode ends on the same **standardized ritual** — the capstone question → *"what's one question you hoped I'd ask, but didn't?"* → the guest's **book recommendation(s)** → *"who's the smartest person who disagrees with you?"* Keep recording past the goodbye. No corporate outro. (Detail: [format.md](format.md).)
 - **Naming:** plain and descriptive — call things what they are (the show is *monetary theory*). No slogans or clever episode titles.
 - **Planning:** **guest-first** — pick the guest, then shape the topic to *their* expertise (within the remit). Recurring guests get numbered rounds, each a folder with a **host.md** (interviewer's sheet) and a **guest.md** (shareable brief).
@@ -52,7 +52,7 @@ If a decision doesn't serve that sentence, it's probably wrong.
 
 **Always:**
 1. **Segue to theory.** Start from felt pain; end in monetary theory / first principles. Not in the news cycle.
-2. **Earn the radical conclusion.** Steelman the statist/socialist view *first* (start where the listener is), then push to the sound-money / ancap conclusion. Radical in substance, inviting in method.
+2. **Follow the argument to first principles.** Steelman the statist/socialist view *first* (start where the listener is), then follow the logic honestly — landing the sound-money / ancap conclusion **when the argument earns it, not as a compulsory destination.** Radical in substance, inviting in method; when the honest answer is "this is genuinely hard," say that instead of forcing the bow-tie.
 3. **Pro-market, not pro-business.** Separate *markets* from *incumbents* at least once per episode. Cronyism is the enemy — and it is what the state's money monopoly *enables* (Cantillon effect).
 4. **Steelman our own side too.** Concede the hard problems of sound money / gold / Bitcoin / statelessness (deflation, volatility, 19th-century bank panics, public goods). Honesty cuts both ways.
 5. **Translate everything.** No jargon survives untranslated (the "smart 15-year-old" test).
@@ -73,10 +73,10 @@ Ideology, method, and the monetary canon: [ideology.md](ideology.md), [monetary-
 
 ## Decision rule (how to judge ANY choice)
 
-Before greenlighting an episode, guest, title, clip, sponsor, or framing, ask:
+Before greenlighting an episode, guest, title, clip, or framing, ask:
 
 1. **Spine** — does it lead to monetary theory / first principles, or does it dead-end in the news?
-2. **Method** — does it start where the skeptic is and *earn* the radical conclusion, rather than preach it?
+2. **Method** — does it start where the skeptic is and **follow the argument honestly** (landing the radical conclusion only when earned), rather than preach a predetermined verdict?
 3. **Honesty** — does it concede what's true (including our own side's problems)? Would a thoughtful socialist feel respected?
 4. **Accessibility** — can a non-specialist follow it without prior knowledge?
 5. **Anti-crony** — does it defend *competition and the ordinary person*, not incumbents or the state's privileges?
@@ -105,3 +105,4 @@ Recorded → passes the Litmus Test → **opens cold, mid-conversation, on a spe
 - *2026-08-17 — Charter created; identity fixed (channel "Mrinal Wahal", Hinglish, no separate show name).*
 - *2026-08-17 — Recentered on **monetary theory** as the spine and an explicitly **anarcho-capitalist** stance ("radical in substance, inviting in method"); inflation etc. reframed as on-ramps, not subjects.*
 - *2026-08-17 — Sharpened to the **politics of money** over history/mechanics; capped the monetary core at **2–3 episodes** (distinct thought-chains); added "one thought-chain per episode." Ep 1 is now "inflation as a hidden tax."*
+- *2026-08-17 — Loosened the method rule: land the ancap conclusion only **when the argument earns it**, never as a compulsory destination (guards against preachiness). Clarified the **Opening**: no *spoken* intros, but on-screen name/credential supers are **required**. **Parked monetization** — removed from governance until the show has a significant audience.*

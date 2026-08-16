@@ -33,12 +33,14 @@ docs/ideology.md         ← ancap stance, method, honesty engine + liberty cano
 docs/format.md           ← format & episode structure
 docs/distribution.md     ← platforms, clips engine, monetization, production
 docs/interview-craft.md  ← interview technique + Dos/Don'ts
-docs/competitive-landscape.md  ← competitors / allies / guest sources
+docs/ecosystem.md        ← competitors, allies & guest bench (the network)
 docs/sources.md          ← citations + confidence flags + verify-before-airing list
 episodes/README.md       ← guests, rounds & roadmap (guest-first planning)
 episodes/<guest>/<round>/host.md   ← the interviewer's sheet (host only)
 episodes/<guest>/<round>/guest.md  ← a warm brief to share with the guest
 ```
+
+**Where things live:** `docs/` = **global & governing** (reused across every episode — never duplicate a spec into an episode folder). `episodes/<guest>/<round>/` = **everything that exists only because of this recording** — prep now (`host.md`, `guest.md`), plus its show notes and cut plan later. Don't scatter episode-specific material into `docs/`; create per-round files only when they have real content (no empty scaffolding).
 
 ## Working rules
 

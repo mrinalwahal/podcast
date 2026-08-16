@@ -14,6 +14,11 @@
 - **Everything is Everything ended Dec 2025 (Ep. 128).** Started mid-2023 (audio feed says 2024 — the 2023 date is correct). Subscriber/view counts **unverified** (data layer blocked).
 - **"Foundation for Economic Growth" is actually Foundation for Economic Development (FED).** **Bibek Debroy died 1 Nov 2024.** Parth Shah is **alive/active** (2024 Fisher Award). No formal Artha–XKDR org link.
 - Mohak Mangal's "Ivy/Stanford" bios and episode-length averages are **content-farm claims — don't repeat.** Subs ~4.3–4.4M (range).
+- **Keynes on Lenin ("debauch the currency")** — the Keynes quote is real, but the **Lenin attribution is unverified / likely apocryphal.** Keynes hedged with "is said to have declared"; no such line appears in Lenin's works (White & Schuler, *J. Econ. Perspectives*, 2009: https://www.aeaweb.org/articles?id=10.1257%2Fjep.23.2.213). Quote it as *Keynes on what Lenin was said to have said* — never as Lenin's own words.
+- **Rupee at independence ≈ ₹3.3/$, not ₹1 = $1** — the "parity at independence" story is a **myth** (the rupee was sterling-pegged). ~₹88/$ by late 2025 (perishable — re-verify the week of recording). https://en.wikipedia.org/wiki/Exchange_rate_history_of_the_Indian_rupee
+- **Indian household gold "~25,000 tonnes" is a World Gold Council *estimate*** (with a real range; some newer figures higher), not a census — attribute it, don't assert it.
+- **Econ Central is defunct** — ended **2020 at Ep. 15** (archive only), not a live competitor. Vivek Kaul remains a guest target; study the archive for the accessible-money register.
+- **Kumar Anand's title:** **"Senior Fellow, Academy & Policy Training"** at CCS (leads the Academy team; ex-Director for Advocacy) — https://ccs.in/kumar-anand-0. Classical-liberal; **not** personally "Austrian" (that tag belongs to ex-employer Asianomics/Jim Walker). He runs a Hinglish YouTube show, *Janhit Junction*.
 
 ## Reference shows
 - EiE: https://open.spotify.com/show/6aHwN2E52JrqdKF28ESYF8 · launch post: https://indiauncut.substack.com/p/please-watch-my-new-youtube-show
@@ -21,7 +26,7 @@
 - Mohak Mangal: https://www.youtube.com/@mohak_mangal · stats: https://www.speakrj.com/audit/report/UCz4a7agVFr1TxU-mpAP8hkw/youtube
 - Monika Halan: https://www.monikahalan.com/podcasts/
 
-## Distribution / growth / monetization
+## Distribution / growth *(monetization parked — out of governance for now)*
 - YouTube dominance: https://india.entrepreneur.com/news-and-trends/indias-podcast-boom-of-2025-who-won-on-youtube-who-ruled/501447 · https://www.marknteladvisors.com/research-library/india-podcasting-market.html
 - Spotify video growth: https://www.phonearena.com/news/spotify-hosts-250000-video-podcast-shows-in-2024--up-from-100000-in-2023_id159933
 - Clips (Raj Shamani): https://hobo.video/blog/who-is-raj-shamani-b2b-influencer/

@@ -16,7 +16,7 @@
 
 ## Anatomy of an episode
 
-1. **The open — no intros.** No "welcome to the show," no host bio, no guest bio, no mission statement. **Every episode opens cold, mid-conversation, on a specific story** — the host and guest already deep in a concrete thing (a real person, date, place, or event), as if the camera caught a chat already in progress. The viewer works out who's who *from the conversation itself*. Reach a real, specific story in the first sentence; let the theory grow out of it. (In the edit you may lift a gripping 15–20s from later to the very front — but still no narration or intro.)
+1. **The open — no intros.** No "welcome to the show," no host bio, no guest bio, no mission statement. **Every episode opens cold, mid-conversation, on a specific story** — the host and guest already deep in a concrete thing (a real person, date, place, or event), as if the camera caught a chat already in progress. The viewer works out who's who *from the conversation itself* — but **the screen tells them too:** an on-screen lower-third (name + credential) the first time each person appears is **required.** No *spoken* intro; the visual super is not optional — on a no-reputation channel the guest's authority is *why* a skeptic gives you five minutes, so show it even though you don't say it. Reach a real, specific story in the first sentence; let the theory grow out of it. (In the edit you may lift a gripping 15–20s from later to the very front as a **cold tease** — but still no *spoken* narration or intro.)
 2. **Three gears:** the **felt world / the story** (start concrete, where the listener lives) → the **mechanism** (the theory under the hood) → the **stakes** (who controls it, who benefits, the honest hard questions).
 3. **2–4 turn points** — a surprising claim, a respectful challenge, a personal admission. Your act breaks and clips.
 4. **The close — a standardized ritual** (see *The close* below) + one host takeaway.
@@ -43,7 +43,7 @@ Every episode ends on the same ritual, so the show has a recognisable shape and 
 - **Anti-crony honesty beat** — once per episode, explicitly separate *markets* from *incumbents.*
 - **Per-episode "lines to land"** — a short list (in each host sheet) of punchy, honest one-liners + quirky Hinglish to sharpen delivery and mint clips. On-air delivery only; *naming and titles stay plain* (no slogans-as-openers).
 
-**Avoid:** any intro, host/guest bio, or mission statement up front; long musical intros; ads before the story; "like & subscribe" up front (put it mid-point).
+**Avoid:** any *spoken* intro, host/guest bio, or mission statement up front (on-screen name/credential supers are fine — and required); long musical intros; ads before the story; "like & subscribe" up front (put it mid-point).
 
 ## Episode naming & thumbnails
 
@@ -65,12 +65,13 @@ Two layers — keep them separate:
 - **Batch-record** 2–3 per session; always keep **one episode in the bank** to protect the streak.
 - **Mix registers** within a season: felt-world / ideas / story / contrarian.
 - **One thought-chain per episode** — a complete argument, not a survey. A big subject is **2–3 episodes**, not one crammed hour (e.g. monetary theory = a 2-episode arc, not ten sub-topics).
+- **Record long, publish tight.** When a subject is a multi-episode arc (e.g. Kumar's two rounds), record it as **one continuous conversation** — no artificial stop between the acts — then cut it into episodes in the edit. This matters most for **early reps:** capturing a long, relaxed conversation and shaping it in post beats trying to nail a tight episode live. **Let the tape set the final count** — the default is the planned split, but a first rep may honestly yield *one* strong episode rather than two thin ones; ship the one. Never publish a single sprawling multi-hour cut, and never pad a deliberately-compressed arc into *more* thin episodes.
 
 Full slate + guest roster: **[episodes/README.md](../episodes/README.md)**.
 
 ## Per-episode prep doc (a map you can abandon)
 
-Build a one-pager every episode: research notes → a **spine of 6–8 anchor questions** (accessible → mechanism → stakes) → backup questions → pre-written transitions/rescue lines → a jargon-and-landmine list. Bullets, not sentences; prompts, not verbatim reads. Template in [interview-craft spec](interview-craft.md); a worked example is **[Kumar Anand · Round One (host sheet)](../episodes/kumar_anand/one/host.md).**
+Build a one-pager every episode: research notes → a **spine of 6–8 anchor questions** (accessible → mechanism → stakes) → backup questions → pre-written transitions/rescue lines → a jargon-and-landmine list. Bullets, not sentences; prompts, not verbatim reads. Template in [interview-craft spec](interview-craft.md); a worked example is **[Kumar Anand · session host sheet](../episodes/kumar_anand/one/host.md).**
 
 ## Publishing pipeline (one recording → many assets)
 

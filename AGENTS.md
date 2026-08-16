@@ -23,3 +23,5 @@ Channel = "Mrinal Wahal" (no separate show name) · **monetary theory core, anar
 
 ## Repo map & how to add an episode
 See [`CLAUDE.md`](CLAUDE.md) for the full repo map and the **guest-first** episode-creation procedure (`episodes/<guest>/<round>/{host.md,guest.md}` — pick the guest, shape the topic to their expertise, write a host sheet + a shareable guest brief, run the Litmus Test, list it in `episodes/README.md`).
+
+**Where things live:** `docs/` = global & governing (reused across every episode); `episodes/<guest>/<round>/` = everything that exists only because of this recording (prep now — `host.md`, `guest.md` — plus its show notes and cut plan later). Never duplicate a global spec into a round folder, or scatter episode-specific material into `docs/`; create per-round files only when they have real content.

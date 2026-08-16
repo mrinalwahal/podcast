@@ -38,7 +38,7 @@ mass, Hinglish   "how to invest"      ancap, Hinglish    ~90 min         (rival 
 - **The orphaned EiE listener** — ideas-literate; judges us on rigor + honesty; our loudest sharer.
 - **The curious radical** — young Indian libertarians + the global **sound-money / Austrian / Bitcoin** audience; small but devoted, and they *share*.
 - **The founder / operator** — feels regulation and cronyism directly; loves the anti-crony framing.
-- **The curious professional / diaspora** — the diaspora slice quietly 5–10×'s our YouTube CPM.
+- **The curious professional / diaspora** — ideas-hungry, high-trust, and a natural sharer abroad; a distinctly Indian frame travels well to them.
 
 **We say no to:** stock-tip seekers, personal-finance how-to seekers, hyper-partisans. Serving them dilutes the lane.
 
@@ -72,7 +72,7 @@ A niche ideas show is a **slow compounder**, not a viral rocket.
 |---|---|---|
 | Ep. 1–5 | Ship on schedule; find the voice; 2–3 clips outperform | Consistency + reps |
 | Month 3–6 | Small loyal core; guest cross-promo working; newsletter growing | Loyalty & share-rate |
-| Month 6–12 | First sponsor talk; recognisable POV | Audience *quality* |
-| Year 2 | Credibility halo (speaking, writing, course) | The show as authority engine |
+| Month 6–12 | Recognisable POV; guests start seeking *you* | Audience *quality* |
+| Year 2 | Recognized authority — a body of work people cite | The show as an ideas engine |
 
 **Ignore** month-1 subscriber counts. **Track** the unbroken publish streak, clip→episode funnel, newsletter growth, and guest-referred listeners.
