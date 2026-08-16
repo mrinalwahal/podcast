@@ -42,8 +42,9 @@ If a decision doesn't serve that sentence, it's probably wrong.
 - **Language:** Hinglish, consistent.
 - **Format:** host as the **translator** + one expert guest; **45–60 min**; **video-first**; **biweekly**, never missing the slot.
 - **Opening:** every episode starts **cold, mid-conversation, on a specific story** — no host or guest introductions, no "welcome to the show," no mission statement. The viewer learns who's who from the conversation.
+- **Closing:** every episode ends on the same **standardized ritual** — the capstone question → *"what's one question you hoped I'd ask, but didn't?"* → the guest's **book recommendation(s)** → *"who's the smartest person who disagrees with you?"* Keep recording past the goodbye. No corporate outro. (Detail: [format.md](format.md).)
 - **Naming:** plain and descriptive — call things what they are (the show is *monetary theory*). No slogans or clever episode titles.
-- **Planning:** **guest-first** — pick the guest, then shape the topic to *their* expertise (within the remit). Recurring guests get numbered rounds (`episodes/<guest>/one.md`, `two.md`, …).
+- **Planning:** **guest-first** — pick the guest, then shape the topic to *their* expertise (within the remit). Recurring guests get numbered rounds, each a folder with a **host.md** (interviewer's sheet) and a **guest.md** (shareable brief).
 
 ---
 
@@ -96,7 +97,7 @@ Six "yes" = ready. Otherwise, not.
 
 ## Definition of done (an episode)
 
-Recorded → passes the Litmus Test → **opens cold, mid-conversation, on a specific story (no intros)** → chaptered → **syllabus-grade show notes (reading list, incl. the monetary canon)** written → 5–20 captioned clips queued → newsletter essay drafted → guest-share kit sent → next episode banked. Detail: [format.md](format.md), [distribution.md](distribution.md).
+Recorded → passes the Litmus Test → **opens cold, mid-conversation, on a specific story (no intros)** → **closes on the standard ritual (capstone · "what should I have asked?" · the guest's book recs · who-to-book-next)** → chaptered → **syllabus-grade show notes (reading list, incl. the monetary canon + the guest's book recs)** written → 5–20 captioned clips queued → newsletter essay drafted → guest-share kit sent → next episode banked. Detail: [format.md](format.md), [distribution.md](distribution.md).
 
 ---
 

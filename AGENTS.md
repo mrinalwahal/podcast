@@ -22,4 +22,4 @@ The strategy, brand, and production brain of a podcast hosted by **Mrinal Wahal*
 Channel = "Mrinal Wahal" (no separate show name) · **monetary theory core, anarcho-capitalist stance** · **guest-first planning** (topic follows the guest's expertise; recurring guests get numbered rounds) · Hinglish · host + one guest · 45–60 min · video-first · biweekly.
 
 ## Repo map & how to add an episode
-See [`CLAUDE.md`](CLAUDE.md) for the full repo map and the **guest-first** episode-creation procedure (`episodes/<guest>/one.md`, `two.md`, … — pick the guest, shape the topic to their expertise, run the Litmus Test, list it in `episodes/README.md`).
+See [`CLAUDE.md`](CLAUDE.md) for the full repo map and the **guest-first** episode-creation procedure (`episodes/<guest>/<round>/{host.md,guest.md}` — pick the guest, shape the topic to their expertise, write a host sheet + a shareable guest brief, run the Litmus Test, list it in `episodes/README.md`).

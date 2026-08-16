@@ -23,7 +23,9 @@ docs/
 episodes/
   README.md              ← guests, rounds & roadmap (guest-first planning)
   <guest>/               ← one folder per guest (e.g. kumar_anand/)
-    one.md, two.md       ← one file per conversation round (script + notes)
+    one/, two/, …        ← one folder per conversation round, each with:
+      host.md            ← the interviewer's sheet (host only)
+      guest.md           ← a warm brief to share with the guest
 ```
 
 *(Docs are de-numbered and ordered by the Charter's precedence, not by filename. Episodes keep their episode number.)*
@@ -46,7 +48,7 @@ episodes/
 2. **Money is your sharpest, most defensible spearpoint** — the state's monopoly on money is where even non-ancap Indians get uneasy (demonetization, inflation-as-hidden-tax, the digital rupee). Make it the wedge for the whole case.
 3. **Keep the honesty engine aimed at yourself too** — concede where gold / Bitcoin / free banking / statelessness have real problems, or you become the propaganda you're fighting.
 4. **The channel linked as "Halan's podcast"** is [@ThrivebyGroww](https://www.youtube.com/@ThrivebyGroww) (Groww's own show), not Halan's — but she's a great **guest** for the insurance-mis-selling episode (topic bank).
-5. **Interviewing a friend (Kumar) for the first episodes → cosiness risk, but they're experimental learning reps, so lean in and iterate.** Your job is still the **relentless translator** — [interview-craft.md](docs/interview-craft.md) + [Kumar Anand · Round One](episodes/kumar_anand/one.md) are built against it.
+5. **Interviewing a friend (Kumar) for the first episodes → cosiness risk, but they're experimental learning reps, so lean in and iterate.** Your job is still the **relentless translator** — [interview-craft.md](docs/interview-craft.md) + [Kumar Anand · Round One (host sheet)](episodes/kumar_anand/one/host.md) are built against it.
 6. **Boring truths that decide survival:** consistency > frequency (biweekly, never miss the slot); hire a clips editor before upgrading gear; record Ep. 1 last, launch with 2–3; the podcast isn't the business — the credibility halo is.
 
 ## Pre-launch checklist
@@ -56,7 +58,7 @@ episodes/
 - [ ] Start the **Substack** before Ep. 1 drops.
 - [ ] Record **Eps 1–3** before launching; release Ep. 1 last-recorded.
 - [ ] **Syllabus-grade show notes** (incl. the monetary canon) per episode.
-- [ ] Prep the first episodes from [Kumar Anand · Round One](episodes/kumar_anand/one.md) & [Round Two](episodes/kumar_anand/two.md) (each has the guest brief); batch-record both.
+- [ ] Prep the first episodes from Round One ([host](episodes/kumar_anand/one/host.md) · [guest brief](episodes/kumar_anand/one/guest.md)) & Round Two ([host](episodes/kumar_anand/two/host.md) · [guest brief](episodes/kumar_anand/two/guest.md)); send Kumar the guest briefs; batch-record both.
 - [ ] **Verify every live statistic** the week you record ([sources.md](docs/sources.md)).
 
 *Built from structured research (Aug 2026). Sources & confidence flags: [docs/sources.md](docs/sources.md).*

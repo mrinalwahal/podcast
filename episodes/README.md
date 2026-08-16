@@ -1,6 +1,6 @@
 # Episodes — Guests, Rounds & Roadmap
 
-Episodes are organised **by guest**: one folder per guest (`episodes/<guest>/`), one file per **conversation round** (`one.md`, `two.md`, …). Strategy lives in [`/docs`](../docs); the subject spine is [`docs/monetary-theory.md`](../docs/monetary-theory.md).
+Episodes are organised **by guest**: one folder per guest (`episodes/<guest>/`), one sub-folder per **conversation round** (`one/`, `two/`, …), each holding a **`host.md`** (the interviewer's sheet) and a **`guest.md`** (a brief to share with the guest). Strategy lives in [`/docs`](../docs); the subject spine is [`docs/monetary-theory.md`](../docs/monetary-theory.md).
 
 **Planning is guest-first:** we pick a guest, then shape the topic to *their* expertise (within the remit). Recurring guests get numbered rounds — a relationship, not a one-off. Every episode still opens cold, mid-conversation, on a specific story (no intros) and drives into the *politics* of money. (See the [Charter](../docs/charter.md) and [format.md](../docs/format.md).)
 
@@ -12,8 +12,8 @@ Economist, Senior Fellow & Academy lead at the **Centre for Civil Society**; ex-
 
 | Round | Topic — shaped to Kumar's expertise | The thought-chain |
 |---|---|---|
-| **[One](kumar_anand/one.md)** | **Inflation as a hidden tax** — his *public finance* lens (how the state funds itself) | Debased on purpose → Cantillon (who gets it first) → a tax nobody voted for |
-| **[Two](kumar_anand/two.md)** | **Money without the state** — his *Indian economic history* for the control stories | The monopoly is control (demonetisation, the digital rupee) → the alternative (gold, competing currencies, Bitcoin) → can it work? |
+| **One** · [host](kumar_anand/one/host.md) · [guest](kumar_anand/one/guest.md) | **Inflation as a hidden tax** — his *public finance* lens (how the state funds itself) | Debased on purpose → Cantillon (who gets it first) → a tax nobody voted for |
+| **Two** · [host](kumar_anand/two/host.md) · [guest](kumar_anand/two/guest.md) | **Money without the state** — his *Indian economic history* for the control stories | The monopoly is control (demonetisation, the digital rupee) → the alternative (gold, competing currencies, Bitcoin) → can it work? |
 
 Two acts: **Round One = state money robs you; Round Two = state money controls you → the escape.** Batch-record both in one session; keep one banked.
 

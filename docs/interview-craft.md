@@ -6,7 +6,7 @@
 
 ## The arc (any length)
 
-Open cold, mid-conversation, on a **specific story** (no host/guest intros, no "welcome to the show") → **three gears** (the story / felt world → mechanism → stakes) → 2–4 turn points → deliberate close + one takeaway. *(Ira Glass: a story = **plot**, one thing leading to the next, + **ideas**, what it means. Keep both moving — and you're literally starting on a story.)*
+Open cold, mid-conversation, on a **specific story** (no host/guest intros, no "welcome to the show") → **three gears** (the story / felt world → mechanism → stakes) → 2–4 turn points → the standard close ritual + one takeaway. *(Ira Glass: a story = **plot**, one thing leading to the next, + **ideas**, what it means. Keep both moving — and you're literally starting on a story.)*
 
 **Long (60–90m) vs tight (40–50m):** for a first episode and unknown chemistry, **lean tight.** Go long only when it's clearly flying.
 
@@ -60,7 +60,8 @@ D. TRANSITIONS & RESCUE LINES (pre-written)
    - "We've talked about what X feels like — let's go under the hood."
    - "For anyone who just joined that thought…"
 E. JARGON & LANDMINE LIST — terms I'll force the guest to translate
-F. CLOSE — synthesizing question + the one takeaway I want them to leave with
+F. CLOSE (standard ritual) — capstone question · "what should I have asked?" · book rec(s) · who-disagrees · keep rolling; + the one-line takeaway
+G. LINES TO LAND — punchy, honest one-liners + quirky words/Hinglish to use for attention & clips (on-air delivery, not slogans-as-openers)
 ```
 
-Worked example, fully filled in: **[Kumar Anand · Round One](../episodes/kumar_anand/one.md).**
+Worked example, fully filled in: **[Kumar Anand · Round One host sheet](../episodes/kumar_anand/one/host.md).**
