@@ -33,7 +33,7 @@
 ## What resonates in India
 
 - **Bastiat's "seen and unseen"** as a *thinking tool*: every policy has a visible effect and invisible costs (the job "saved" by a tariff vs. jobs never created; rent "controlled" vs. housing never built). Reads as *analysis*, not cheerleading.
-- **The 1991 story & the License Raj** — central planning → liberalization → mass poverty reduction (data: [Ep. 1 notes](../episodes/01-monetary-theory/notes.md)). Be honest it was *compounding* growth, not a one-year miracle.
+- **The 1991 story & the License Raj** — central planning → liberalization → mass poverty reduction (poverty data in [sources.md](sources.md)). Be honest it was *compounding* growth, not a one-year miracle.
 - **Gurcharan Das's register** (*India Unbound*): the patriotic "unleash Indian energy" story — markets as pro-India and pro-poor.
 
 ## The honesty engine (our moat)

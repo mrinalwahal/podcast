@@ -1,4 +1,4 @@
-# Competitive Landscape
+# Ecosystem — Competitors, Allies & Guest Bench
 
 > In a niche this small, "competitors" are also your **guest roster** and **cross-promotion network.** The crowdedness proves the audience exists. Be the sharpest, tightest, most honest node — and plug into the network, don't fight it.
 
@@ -12,7 +12,7 @@
 | **Growth is Good** (Foundation for Economic Development) | Yes | Explicitly pro-market | Closest live competitor + ally + guest |
 | **Puliyabaazi** (Chandra, Kotasthane) | Yes (Hindi) | Liberal, policy-nerd | Format proof + ally + guest |
 | **All Things Policy** (Takshashila) | Yes (daily) | Independent liberal | Guest bench + partial competitor |
-| **Econ Central** (Varma + Vivek Kaul) | Yes | Accessible economics | Register model + guest (Kaul) |
+| **Econ Central** (Varma + Vivek Kaul) | **Ended 2020 (Ep. 15)** | Accessible economics | Register model (archive) + Kaul = guest |
 | **Thrive by Groww** / **Let's Talk Money** (Halan) | Yes | Personal finance | Finance benchmark + **Halan = guest** |
 | **CCS / Takshashila / Mercatus-EV / XKDR / Artha / Prosperiti** | mixed | Classical-liberal / pro-market | **Allies + deep guest bench** |
 | **IVM Podcasts** | (network) | Commercial | Possible distribution partner |
@@ -25,7 +25,7 @@
 - **Growth is Good** (FED) — your closest *live* competitor; unabashedly pro-growth, strong guests (Montek, Ajay Shah). **Differentiate:** you're independent, host-driven, broader (liberty + money), more accessible, anti-crony-branded. Also an **ally/guest** target (Rahul Ahluwalia).
 - **Ideas of India** (Rajagopalan) — the academic competitor; deeply prepared. **Differentiate:** you sit one notch toward accessible. Rajagopalan is a dream guest + gateway to the EV India talent pool.
 - **Puliyabaazi** — the format proof: accessible-but-serious, Hindi, non-preachy — *exactly your tone.* **Differentiate:** English-Hinglish, video-first, tighter POV. Kotasthane = great guest.
-- **Econ Central** (Vivek Kaul) — the best template for an accessible *money* register; **Kaul is your ideal inflation/finance guest.**
+- **Econ Central** (Varma + Kaul) — **defunct: ended 2020 at Ep. 15**, so study the archive, don't treat it as a live rival; still the best template for an accessible *money* register, and **Kaul is your ideal inflation/finance guest.**
 - **Thrive by Groww / Halan** — the personal-finance benchmark. Not a head-to-head rival (different job). **Monika Halan is a strong guest** for a *finance-as-ideas* episode (insurance mis-selling, why the system is rigged against ordinary buyers).
 
 ## Adjacent (same audience, different tilt — benchmarks, not allies)
@@ -44,7 +44,7 @@
 - **The 1991 Project / IndianLiberals.in** — content, archive, and episode-idea sources.
 
 ## Distribution partner (optional, later)
-- **IVM Podcasts** — India's pioneering network (a Pratilipi vertical); syndicates *All Things Policy* & *Puliyabaazi*. A credible ad-sales/production partner *if* you ever outsource — **not needed to launch** (self-distribute via one RSS feed).
+- **IVM Podcasts** — India's pioneering network (a Pratilipi vertical); syndicates *All Things Policy* & *Puliyabaazi*. A credible production/distribution partner *if* you ever outsource — **not needed to launch** (self-distribute via one RSS feed).
 
 ## How you win in a crowded room
 1. Be the **accessible successor to EiE** (tighter, video-first, interview format).
