@@ -6,11 +6,11 @@
 
 - **Show / channel:** runs under the host's name — **Mrinal Wahal** (YouTube channel = "Mrinal Wahal"). **No separate show name.** A short descriptive tagline may sit under it (e.g. *"Markets & freedom, explained honestly"*), but the brand is the person.
 - **Language:** **Hinglish**, consistent — don't drift English↔Hindi between episodes.
-- **What it is:** a Hinglish interview show whose spine is **monetary theory** — money, inflation, central banking, sound money — argued from an **anarcho-capitalist** conviction, opening onto the wider case for free markets and liberty. Treated as *ideas and theory*, never how-to.
+- **What it is:** a Hinglish, **first-principles analytical** interview show about **power, incentives & freedom** — argued from an **anarcho-capitalist / classical-liberal** conviction. **Pillar 1 (launch) = monetary theory** (money, inflation, central banking, sound money); **Pillar 2 (planned, host-led) = AI / deep learning.** Treated as *ideas and first principles*, never how-to.
 
 ## Positioning
 
-**One-line:** *A show about monetary theory — what money is, why it loses value, and why the state shouldn't control it — made plain, in Hinglish, for a general Indian audience.*
+**One-line:** *A first-principles show about power, incentives & freedom — made plain, in Hinglish, for a general Indian audience. It starts with money (what it is, why it loses value, why the state shouldn't control it) and extends to the tech — AI — reshaping both.*
 
 **The hook:** an **anarcho-capitalist who takes the socialist seriously** — opens on a specific story, then works toward what money really is and who controls it. Radical in substance, inviting in method.
 
@@ -25,10 +25,10 @@ mass, Hinglish   "how to invest"      ancap, Hinglish    ~90 min         (rival 
 **The insight:** those shows differ in *subject*, not just level. Mohak = journalism; Halan/Groww = personal finance ("how to act with money"); the top of the column = *ideas*. **We're in the ideas column, with a spine no one else has: monetary theory from an anarcho-capitalist angle.** We borrow Halan's *warmth and trust*, not her *how-to* subject. Money is in scope **as theory** (what money is, why it's mis-managed, who benefits), never as stock tips.
 
 **The whitespace we own** (four levers):
-1. **Subject** — **monetary theory** (and the ancap/liberty case it opens onto) as *ideas*, not how-to, not news.
+1. **Subject** — a first-principles lens on **power, incentives & freedom**: **money first (Pillar 1)**, **AI later (Pillar 2)** — as *ideas*, not how-to, not news.
 2. **Register & length** — warm Hinglish, tight 45–60 min.
 3. **Format** — video-first, cumulative worldview-building.
-4. **POV** — explicit **anarcho-capitalist**, money-first, **"pro-market, not pro-business" (anti-crony)**. Nobody owns "sound money vs. the state" for an Indian audience.
+4. **POV** — explicit **anarcho-capitalist / classical-liberal**, **"pro-market, not pro-business" (anti-crony)** — money-first at launch, then the same lens on AI. Nobody owns "sound money vs. the state" for an Indian audience; and an AI *expert* who reasons about power from first principles is rarer still — that's the Pillar-2 edge.
 
 > **The opening:** *Everything is Everything* (the best smart pro-market show) ended Dec 2025 at Ep. 128 — its audience is orphaned. It had a credentialed economist permanently in the chair, so that audience expects rigor. Our host + expert-guest structure is built to deliver it.
 

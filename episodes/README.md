@@ -4,6 +4,8 @@ Episodes are organised **by guest**: one folder per guest (`episodes/<guest>/`),
 
 **Planning is guest-first:** we pick a guest, then shape the topic to *their* expertise (within the remit). Recurring guests get numbered rounds — a relationship, not a one-off. Every episode still opens cold, mid-conversation, on a specific story (no intros) and drives into the *politics* of money. (See the [Charter](../docs/charter.md) and [format.md](../docs/format.md).)
 
+**Forward slate:** recommended candidate episodes per future guest live in **[plans.md](plans.md)**.
+
 ---
 
 ## Kumar Anand (CCS) — our first guest *(experimental)*
@@ -37,7 +39,7 @@ Topics we want to cover — each waiting for the guest whose expertise fits:
 ⚠️ **Verify current roles before pitching.** **Bibek Debroy passed away 1 Nov 2024** — invoke his legacy, not a booking.
 
 **Money & sound-money voices:** **Vivek Kaul** (*Easy Money*; the most accessible money explainer) · a **CBDC / digital-privacy** voice · a **Bitcoin / Austrian educator** · a **central-banking defender or MMT** proponent (to steelman the other side).
-**Tier 1 — realistic early:** **Pranay Kotasthane** (Takshashila/*Puliyabaazi*) · **Niranjan Rajadhyaksha** (Artha; macro) · **Shubho Roy / Bhuvana Anand** (Prosperiti; law-and-economics) · **Monika Halan** (insurance).
+**Tier 1 — realistic early:** **Akash Kumar** (Kumar's co-author; deregulation/entrepreneurship, camera-ready — slate in [plans.md](plans.md)) · **Pranay Kotasthane** (Takshashila/*Puliyabaazi*) · **Niranjan Rajadhyaksha** (Artha; macro) · **Shubho Roy / Bhuvana Anand** (Prosperiti; law-and-economics) · **Monika Halan** (insurance).
 **Tier 2 — strong "gets":** **Ajay Shah** (a superb steelman partner), Susan Thomas, **Shruti Rajagopalan** (opens the EV India pool), Gurcharan Das, Swaminathan Aiyar, Mihir Sharma, Parth Shah.
 **Tier 3 — marquee:** **Raghuram Rajan** (a central banker who attacks crony capitalism — dream steelman), Arvind Subramanian; a global Austrian/Bitcoin name.
 **Young-talent seam:** via **Emergent Ventures India** — young founders/thinkers; a recurring, clippable segment.

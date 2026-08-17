@@ -1,17 +1,14 @@
-# Monetary Theory — Subject & Canon Spec
+# Monetary Theory — Subject & Canon Spec *(Pillar 1)*
 
-*The intellectual spine of the show. Elaborates the Charter's scope. We do the **politics of money** — who controls it, how that control is power, who it robs, and what it means for freedom — **not** the history or mechanics for their own sake. History (barter, cowries, 1971, Yap) is **scaffolding**: use it only where it serves the political point, briefly.*
+*The show's **launch pillar (Pillar 1)** — the money beachhead. (The overall spine is broader — a first-principles analytical lens on power, incentives & freedom; see the [Charter](charter.md). Pillar 2, AI / deep learning, gets its own spec when it launches.) This is the money pillar's **subject & canon**: the **politics of money** — who controls it, how that control is power, who it robs, what it means for freedom — **not** history or mechanics for their own sake. History (barter, cowries, 1971, Yap) is **scaffolding**.*
 
 ## The core thesis (in one paragraph)
 
-Money is not a creation of the state — it emerged from markets. But when the state monopolizes money (central banking, fiat, legal-tender laws), it gains the power to quietly tax through inflation, to redistribute to whoever gets the new money first (the **Cantillon effect** — usually the state and the connected), and — with digital money — to surveil and switch off individual spending. **Sound money limits state power; state money enables it.** That is the show's spearpoint, and the cleanest, most defensible edge of the broader anarcho-capitalist case.
+Money is not a creation of the state — it emerged from markets. But when the state monopolizes money (central banking, fiat, legal-tender laws), it gains the power to quietly tax through inflation, to redistribute to whoever gets the new money first (the **Cantillon effect** — usually the state and the connected), and — with digital money — to surveil and switch off individual spending. **Sound money limits state power; state money enables it.** That is the show's **launch spearpoint**, and the cleanest, most defensible edge of the broader anarcho-capitalist case.
 
-## The arc: monetary theory in 2 episodes (each a political thought-chain)
+## How the money pillar maps to episodes
 
-| Ep | Political claim | Core ideas |
-|---|---|---|
-| **1 — Inflation as a hidden tax** *(the robbery)* | Money is debased on purpose; it's an unlegislated, regressive tax that funds the state and the connected off your savings | Inflation is monetary · Cantillon effect · seigniorage / debt erosion / financial repression |
-| **2 — Money without the state** *(the control, and the way out)* | The monopoly is *control* — cancel, program, or surveil your money — so the answer is money the state can't touch | Money monopoly · demonetisation · CBDC · sound vs. fiat · separation of money & state · gold, competing currencies, Bitcoin (with honest problems) |
+Episode mapping is **episode-specific, not subject-canon** — it lives in **[../episodes/plans.md](../episodes/plans.md)** and **[../episodes/README.md](../episodes/README.md)**, not here. In brief, the launch arc is **2 episodes**: **1 — *Inflation as a hidden tax*** (the robbery: debasement · Cantillon · seigniorage / financial repression) → **2 — *Money without the state*** (the control & the way out: money monopoly · demonetisation · CBDC · sound vs. fiat · gold / competing currencies / Bitcoin, with honest problems). Kumar Anand's session sheet: **[../episodes/kumar_anand/one/host.md](../episodes/kumar_anand/one/host.md)**.
 
 ## Key ideas (the recurring political "frames")
 

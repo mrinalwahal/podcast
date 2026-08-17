@@ -71,7 +71,7 @@ Full slate + guest roster: **[episodes/README.md](../episodes/README.md)**.
 
 ## Per-episode prep doc (a map you can abandon)
 
-Build a one-pager every episode: research notes → a **spine of 6–8 anchor questions** (accessible → mechanism → stakes) → backup questions → pre-written transitions/rescue lines → a jargon-and-landmine list. Bullets, not sentences; prompts, not verbatim reads. Template in [interview-craft spec](interview-craft.md); a worked example is **[Kumar Anand · session host sheet](../episodes/kumar_anand/one/host.md).**
+Build a one-pager every episode: research notes → a **spine of 6–8 anchor questions** (accessible → mechanism → stakes) → backup questions → pre-written transitions/rescue lines → a jargon-and-landmine list. Bullets, not sentences; prompts, not verbatim reads. Template in [craft spec](craft.md); a worked example is **[Kumar Anand · session host sheet](../episodes/kumar_anand/one/host.md).**
 
 ## Publishing pipeline (one recording → many assets)
 
