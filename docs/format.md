@@ -23,13 +23,14 @@
 
 ## The close (standardized — the bookend to the open)
 
-Every episode ends on the same ritual, so the show has a recognisable shape and every ending mints clips. Run these near the end (give #1–2 enough runway to actually chase a good answer):
+Every episode ends on the same ritual, so the show has a recognisable shape and every ending mints clips. Run these near the end (give #1–3 enough runway to actually chase a good answer):
 
 1. **The capstone question** — the recurring thematic one: *"If every Indian understood one thing about [today's topic], what should it be?"* Lands the one takeaway.
-2. **"What should I have asked?"** — *"What's one question you hoped I'd ask you, but I didn't?"* Hand the guest the mic for the thing they most wanted to say — often the best moment of the episode.
-3. **Book recommendation(s)** — *"One or two books you'd hand someone who wants to go deeper?"* Feeds the syllabus-grade show-notes reading list.
-4. **Who disagrees with you?** — *"Who's the smartest person who thinks you're wrong about this — who should I have on?"* Interesting for the listener (it signals honesty) and feeds the guest pipeline + debate specials.
-5. **Keep rolling past the goodbye** — the most candid line often lands after "that's a wrap." Don't stop the recording; cut it in the edit if unused.
+2. **The reform that isn't happening** — *"What's one reform you genuinely believe in that almost no one is fighting for — the change you most wish were on the table, but isn't?"* Surfaces the guest's deepest conviction about what's broken. **Steer it to the *principle* behind the reform (the rigged rule, the broken incentive), not a policy wish-list** — it must still land on first principles, not the news cycle. Doubles as an episode-idea + guest-pipeline engine: their unpursued reform is a ready-made future topic.
+3. **"What should I have asked?"** — *"What's one question you hoped I'd ask you, but I didn't?"* Hand the guest the mic for the thing they most wanted to say — often the best moment of the episode.
+4. **Book recommendation(s)** — *"One or two books you'd hand someone who wants to go deeper?"* Feeds the syllabus-grade show-notes reading list.
+5. **Who disagrees with you?** — *"Who's the smartest person who thinks you're wrong about this — who should I have on?"* Interesting for the listener (it signals honesty) and feeds the guest pipeline + debate specials.
+6. **Keep rolling past the goodbye** — the most candid line often lands after "that's a wrap." Don't stop the recording; cut it in the edit if unused.
 
 **No corporate outro** — no long "smash subscribe," no laborious sign-off. The host lands a one-line takeaway; the guest's links go in the description, not on air (consistent with the no-intros open). The close is where you land the takeaway, give the guest their best moment, generate the reading list, and turn every episode into a booking engine — low effort, high compounding.
 
@@ -39,7 +40,7 @@ Every episode ends on the same ritual, so the show has a recognisable shape and 
 - **Chaptered episodes** with a timestamped table of contents (from EiE) — helps retention + clip-planning.
 - **One portable "frame" per episode** (incentives, seen/unseen, opportunity cost, price signals). Cumulative worldview-building is your product.
 - **The "explain it to a 15-year-old" moment** — make it a recognisable ritual.
-- **The standardized close** (see *The close* above) — the same ritual every episode: capstone question → "what should I have asked?" → book recs → who-disagrees. A recognisable bookend.
+- **The standardized close** (see *The close* above) — the same ritual every episode: capstone question → the missing reform → "what should I have asked?" → book recs → who-disagrees. A recognisable bookend.
 - **Anti-crony honesty beat** — once per episode, explicitly separate *markets* from *incumbents.*
 - **Per-episode "lines to land"** — a short list (in each host sheet) of punchy, honest one-liners + quirky Hinglish to sharpen delivery and mint clips. On-air delivery only; *naming and titles stay plain* (no slogans-as-openers).
 

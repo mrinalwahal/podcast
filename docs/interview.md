@@ -60,7 +60,7 @@ D. TRANSITIONS & RESCUE LINES (pre-written)
    - "We've talked about what X feels like — let's go under the hood."
    - "For anyone who just joined that thought…"
 E. JARGON & LANDMINE LIST — terms I'll force the guest to translate
-F. CLOSE (standard ritual) — capstone question · "what should I have asked?" · book rec(s) · who-disagrees · keep rolling; + the one-line takeaway
+F. CLOSE (standard ritual) — capstone question · the missing reform · "what should I have asked?" · book rec(s) · who-disagrees · keep rolling; + the one-line takeaway
 G. LINES TO LAND — punchy, honest one-liners + quirky words/Hinglish to use for attention & clips (on-air delivery, not slogans-as-openers)
 ```
 

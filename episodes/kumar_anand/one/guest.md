@@ -22,7 +22,7 @@
 
 **Not this time:** the CPI basket / latest print; stock/crypto tips.
 
-**I close by asking:** a book rec + *"what's one question you hoped I'd ask, but didn't?"*
+**I close by asking:** a book rec, *"what's one question you hoped I'd ask, but didn't?"*, and *"one reform you genuinely wish someone was pushing — but no one is?"*
 
 **Logistics:** one sitting, **~90–120 min** (we'll wander — no pressure), Hinglish, video (in-person or Riverside).
 

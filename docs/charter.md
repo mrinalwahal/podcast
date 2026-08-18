@@ -47,7 +47,7 @@ If a decision doesn't serve that sentence, it's probably wrong.
 - **Language:** Hinglish, consistent.
 - **Format:** one expert guest; **45–60 min**; **video-first**; **biweekly**, never missing the slot. **The host role flexes with the subject:** the **translator** on his curiosities (money — the guest carries the expertise), the **expert / peer** on his own turf (AI — the host carries it, or spars with a peer).
 - **Opening:** every episode starts **cold, mid-conversation, on a specific story** — no *spoken* host/guest introductions, no "welcome to the show," no mission statement. But the **screen introduces**: an on-screen lower-third (name + credential) the first time each person appears is **required** — the ban is on spoken narration, not on visual context. On a new, no-reputation channel the guest's authority is *why* a skeptic gives you five minutes; show it even though you don't say it.
-- **Closing:** every episode ends on the same **standardized ritual** — the capstone question → *"what's one question you hoped I'd ask, but didn't?"* → the guest's **book recommendation(s)** → *"who's the smartest person who disagrees with you?"* Keep recording past the goodbye. No corporate outro. (Detail: [format.md](format.md).)
+- **Closing:** every episode ends on the same **standardized ritual** — the capstone question → *"one reform you genuinely believe in that no one's fighting for?"* → *"what's one question you hoped I'd ask, but didn't?"* → the guest's **book recommendation(s)** → *"who's the smartest person who disagrees with you?"* Keep recording past the goodbye. No corporate outro. (Detail: [format.md](format.md).)
 - **Naming:** plain and descriptive — call things what they are. No slogans or clever episode titles.
 - **Planning:** **guest-first** — pick the guest, then shape the topic to *their* expertise (within the remit). Recurring guests get numbered rounds, each a folder with a **host.md** (interviewer's sheet) and a **guest.md** (shareable brief).
 
@@ -102,7 +102,7 @@ Six "yes" = ready. Otherwise, not.
 
 ## Definition of done (an episode)
 
-Recorded → passes the Litmus Test → **opens cold, mid-conversation, on a specific story (no intros)** → **closes on the standard ritual (capstone · "what should I have asked?" · the guest's book recs · who-to-book-next)** → chaptered → **syllabus-grade show notes (reading list, incl. the relevant canon + the guest's book recs)** written → 5–20 captioned clips queued → newsletter essay drafted → guest-share kit sent → next episode banked. Detail: [format.md](format.md), [distribution.md](distribution.md).
+Recorded → passes the Litmus Test → **opens cold, mid-conversation, on a specific story (no intros)** → **closes on the standard ritual (capstone · the missing reform · "what should I have asked?" · the guest's book recs · who-to-book-next)** → chaptered → **syllabus-grade show notes (reading list, incl. the relevant canon + the guest's book recs)** written → 5–20 captioned clips queued → newsletter essay drafted → guest-share kit sent → next episode banked. Detail: [format.md](format.md), [distribution.md](distribution.md).
 
 ---
 
@@ -111,4 +111,5 @@ Recorded → passes the Litmus Test → **opens cold, mid-conversation, on a spe
 - *2026-08-17 — Recentered on **monetary theory** as the spine and an explicitly **anarcho-capitalist** stance ("radical in substance, inviting in method"); inflation etc. reframed as on-ramps, not subjects.*
 - *2026-08-17 — Sharpened to the **politics of money** over history/mechanics; capped the monetary core at **2–3 episodes** (distinct thought-chains); added "one thought-chain per episode." Ep 1 is now "inflation as a hidden tax."*
 - *2026-08-17 — Loosened the method rule: land the ancap conclusion only **when the argument earns it**, never as a compulsory destination (guards against preachiness). Clarified the **Opening**: no *spoken* intros, but on-screen name/credential supers are **required**. **Parked monetization** — removed from governance until the show has a significant audience.*
+- *2026-08-18 — Added a beat to the standardized **close**, right after the capstone: *"one reform you genuinely believe in that no one's fighting for?"* Steer it to the principle behind the reform (not a policy wish-list); doubles as an episode-idea + guest-pipeline engine.*
 - *2026-08-17 — **Broadened the spine** from "monetary theory" to a **first-principles analytical lens on power, incentives & freedom.** Money is now **Pillar 1 (the launch beachhead)**; **AI / deep learning is a planned Pillar 2** (the host's expertise), same lens. Sequencing: launch narrow on money, broaden into AI only after the beachhead lands. Host role flexes (translator on money, expert on AI).*

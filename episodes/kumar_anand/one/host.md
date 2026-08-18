@@ -82,7 +82,7 @@ Don't re-open cold; walk across the seam. Act 1 ended on "a tax you never voted 
 ---
 
 ## Close ritual — ONCE, at the very end (see [format.md](../../../docs/format.md))
-After Act 2's capstone: **"What's one question you hoped I'd ask, but didn't?"** → **book recommendation(s)** (feeds *both* episodes' show notes) → **"who's the smartest person who disagrees with you on this?"** → **keep rolling past the goodbye** (the candid line comes after "that's a wrap"). No corporate outro.
+After Act 2's capstone: **"One reform you genuinely believe in that almost no one is fighting for?"** (steer to the principle, not a policy list) → **"What's one question you hoped I'd ask, but didn't?"** → **book recommendation(s)** (feeds *both* episodes' show notes) → **"who's the smartest person who disagrees with you on this?"** → **keep rolling past the goodbye** (the candid line comes after "that's a wrap"). No corporate outro.
 *Run this once — it lands at the end of Ep #2. Each act already carries its own takeaway above, so Ep #1 still ends on a landing.*
 
 ## Transitions / rescue lines
